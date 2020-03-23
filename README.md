@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+参考https://github.com/heyushuo/vue-marquee
+在https://github.com/heyushuo/vue-marquee基础上修改
